@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+h1, #link, #para {
+  text-align: center;
+}
+
+.box {
+  border: 2px ridge firebrick;
+  width: 380px;
+  margin: 0px auto;
+  padding: 10px;
+}
+
+table {
+  width: 400px;
+  margin: 0px auto;
+}
+
+table, tr, th {
+  border: 2px ridge firebrick;
+}
+
+td {
+  text-align: center;
+  width: 200px;
+}
+
+#btn1 {
+  margin-right: 20px;
+}
